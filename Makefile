@@ -12,3 +12,4 @@ pallin.o:pallin.c
 	gcc -c pallin.c
 sum2.o:sum2.c
 	gcc -c sum2.c
+
